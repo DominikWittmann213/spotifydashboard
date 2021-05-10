@@ -2,7 +2,7 @@ library(httr)
 
 #replace this with yours
 clientID <- '58de1eb913b44d87a3cfb756120949ea'
-secret <- 'bd42e33235384684a404d54caf674554'
+secret <- '###'
 
 response <- POST(
   'https://accounts.spotify.com/api/token',
