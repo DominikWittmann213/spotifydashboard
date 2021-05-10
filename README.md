@@ -1,0 +1,2 @@
+# spotifydashboard
+Daily Spotify statistics
